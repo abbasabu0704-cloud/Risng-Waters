@@ -179,7 +179,7 @@ The application uses a **Random Forest Classifier**, which provides reliable cla
 
 **GitHub Repository**
 
-🔗 https://github.com/palemvenkatarajesh94/Rising-Waters
+🔗 https://github.com/abbasabu0704-cloud/Risng-Waters.git
 
 ---
 
